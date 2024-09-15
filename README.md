@@ -1,5 +1,5 @@
 # icarus-smallresources
-Icarus Modding has come out with a script with many QoL changes, that make day-to-day roleplay more realistic and more fun!
+Icarus Modding has come out with a script with many QoL changes, that make day-to-day play more realistic and more fun!
 Currently, this script has (with config abilities)
 
 - /savecar (adds any un-owned car to admins garage)
@@ -9,7 +9,7 @@ Currently, this script has (with config abilities)
 - Force flashlight state (stays on until turned off manually)
 - Removes "Action mode" (stance after shooting or punching)
 - Adds controls for windows, doors, and trunks
-- Forces first person shooting put of cars
+- Forces first person shooting out of cars
 - Adds a carry command
 - Removes ambient sounds
 - Adds ragdolling when spam jumping (configurable chance)
@@ -17,5 +17,3 @@ Currently, this script has (with config abilities)
 
 ***DEPENDANT ON QB-CORE***
   ## MORE TO COME :D
-
-  __For support, join discord at https://discord.gg/3zFNJCZM5U__
