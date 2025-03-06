@@ -10,10 +10,7 @@ Currently, this script has (with config abilities)
 - Removes "Action mode" (stance after shooting or punching)
 - Adds controls for windows, doors, and trunks
 - Forces first person shooting out of cars
-- Adds a carry command
 - Removes ambient sounds
 - Adds ragdolling when spam jumping (configurable chance)
 - Removes pistol whipping
 
-***DEPENDANT ON QB-CORE***
-  ## MORE TO COME :D
