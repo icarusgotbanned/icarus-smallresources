@@ -6,6 +6,10 @@ version '1.9'
 author 'Icarus Modding'
 description 'Small Resources script made by Icarus Modding'
 
+dependencies {
+    'qb-core',
+    'ox_lib',
+}
 
 shared_scripts {
     'shared/config.lua',
@@ -15,10 +19,7 @@ shared_scripts {
 }
 
 client_scripts {
-    'client/client.lua',
-    'client/carry.lua',
-    'client/vehcontrol.lua',
-    'client/sniperscope.lua',
+    'client.lua',  
 }
 
 server_scripts {
